@@ -19,7 +19,8 @@ Visual storytelling and story comprehension are uniquely human skills that play 
 Please head over to the releases tab to download the current version of the dataset. 
 Download the files in `data.zip` to the  `./data` folder for and follow instructions in `./data/README.md` to set it up.
 
-We have also provided pre-rendered scenes in `previews.zip` for ease of viewing the drawn stories.
+We have also provided pre-rendered scenes in `previews.tar.gz` for ease of viewing the drawn stories. More details are
+found in the `./data/README.md`. 
 
 ---
 
