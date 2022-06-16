@@ -19,7 +19,7 @@ The data necessary for this repo are found in `data.zip` and are organized as fo
 
 #### RENDERING PREVIEWS
 
-For ease of viewing, we also provide the `previews.zip` which contains:
+For ease of viewing, we also provide the pre-rendered previews in `previews.tar.gz` in the release tab which contains:
 
 - `previews/image_renderings/` has all folders with same storyIDs but 3 images inside each folder corresponding to 3 panels in each story.
 - `previews/previews/` has images that shows the entire story with 3 images, 3 text, title and theme.
