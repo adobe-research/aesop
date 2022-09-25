@@ -89,7 +89,7 @@ The web interface for data acquisition and most of the clipart objects come from
 
 #### Data Cleanup and Final Size
 
-We conducted a review of the stories in the AESOP dataset for ethical concerns and bias as well as other egregious quality issues and errors. This review resulted in removal of 46 stories from our original data, resulting in a total of 7016 stories instead of 7062 as reported in our publication. This removal of less than 1% of data that had no measurable effect in training the baseline model reported in the paper.
+We conducted a review of the stories in the AESOP dataset for ethical concerns and bias as well as other egregious quality issues and errors. This review resulted in removal of 47 stories from our original data, resulting in a total of 7015 stories instead of 7062 as reported in our publication. This removal of less than 1% of data that had no measurable effect in training the baseline model reported in the paper.
 
 ---
 
